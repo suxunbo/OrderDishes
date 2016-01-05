@@ -562,8 +562,8 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer: Fujian Huang (B79V9FNDSG)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Fujian Huang (B79V9FNDSG)";
 				GCC_INPUT_FILETYPE = automatic;
-				GCC_PREFIX_HEADER = /Users/yujianfeng/Desktop/OrderDishes/PrefixHeader.pch;
-				INFOPLIST_FILE = /Users/yujianfeng/Desktop/OrderDishes/Info.plist;
+				GCC_PREFIX_HEADER = PrefixHeader.pch;
+				INFOPLIST_FILE = Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mtime.OrderDishes;
@@ -579,8 +579,8 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer: Fujian Huang (B79V9FNDSG)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Fujian Huang (B79V9FNDSG)";
 				GCC_INPUT_FILETYPE = automatic;
-				GCC_PREFIX_HEADER = /Users/yujianfeng/Desktop/OrderDishes/PrefixHeader.pch;
-				INFOPLIST_FILE = /Users/yujianfeng/Desktop/OrderDishes/Info.plist;
+				GCC_PREFIX_HEADER = PrefixHeader.pch;
+				INFOPLIST_FILE = Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mtime.OrderDishes;
