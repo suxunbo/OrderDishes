@@ -296,7 +296,6 @@
 			children = (
 				0C2D98241C2AA4240086F3AB /* AppDelegate.h */,
 				0C2D98251C2AA4240086F3AB /* AppDelegate.m */,
-				0CCA1D5F1C216101009DDED2 /* PrefixHeader.pch */,
 				0C0E2B151C16B2E600680508 /* thirdLibrary */,
 				0C0E2B271C16B33C00680508 /* tool */,
 				0C88DB3F1C15964F00305493 /* model */,
@@ -304,6 +303,7 @@
 				0C88DB321C1595D000305493 /* controller */,
 				0C2D982E1C2AA4A30086F3AB /* Main.storyboard */,
 				0C2D98311C2AA4C10086F3AB /* LaunchScreen.storyboard */,
+				0CCA1D5F1C216101009DDED2 /* PrefixHeader.pch */,
 				0C2D98361C2AA5250086F3AB /* Info.plist */,
 				0C88DB0A1C15680700305493 /* Supporting Files */,
 			);
