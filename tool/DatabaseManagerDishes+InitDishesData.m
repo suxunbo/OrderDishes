@@ -192,6 +192,7 @@
                              [[ModelDishes alloc] initName:@"疙瘩汤" price:18.0 VIPPrice:16.0 describing:@""],
                              [[ModelDishes alloc] initName:@"湘西手工粉" price:29.0 VIPPrice:26.0 describing:@""],
                              [[ModelDishes alloc] initName:@"妈妈炖菜" price:22.0 VIPPrice:19.0 describing:@""],
+                             [[ModelDishes alloc] initName:@"石锅千页豆腐" price:42.0 VIPPrice:38.0 describing:@""],
                              
                              ];
     
